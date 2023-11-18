@@ -3,13 +3,13 @@ const dotenv = require('dotenv');
 const express = require('express');
 const router = express.Router();
 const bcrypt = require('bcryptjs');
-const authenticate = require("../middleware/authenticate");
+const authenticate = require("./authenticate");
 dotenv.config({ path: './config.env' });
 const Razorpay = require('razorpay');
 
 var instance =  new Razorpay({ key_id:  process.env.KEY, key_secret: process.env.SECRET })
-require('../db/conn');
-const User = require("../model/UserSchema");
+require('./conn');
+const User = require("./userSchema");
 
 router.get('/', (req, res) => {
     res.send('Hello world r');

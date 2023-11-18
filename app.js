@@ -9,12 +9,12 @@ const PORT = process.env.PORT;
 var instance = new Razorpay({ key_id:  process.env.KEY, key_secret: process.env.SECRET })
 
 
-require('./db/conn');
+require('./conn');
 //const User = require('./model/userSchema');
 app.use(cors())
 app.use(express.json());
 
-app.use(require('./router/auth'));
+app.use(require('./auth'));
 
 
 
