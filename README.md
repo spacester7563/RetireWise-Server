@@ -17,25 +17,21 @@ Demo Website (ChatBot can be accessed from the website) :-
 
 <p float="left">
 
-<img src="https://firebasestorage.googleapis.com/v0/b/bookmyevent-1d870.appspot.com/o/Screenshot%202023-04-17%20at%206.49.51%20PM.png?alt=media&token=2e060b1c-2eb1-4699-897d-71023f91257d"  width=25% height=25%>
+<img src="https://firebasestorage.googleapis.com/v0/b/bookmyevent-1d870.appspot.com/o/retirewise%2Fwpic1.png?alt=media&token=bc118f29-8bfe-42da-9224-828de04c0108"  width=45% height=45%>
 
-<img src="https://firebasestorage.googleapis.com/v0/b/bookmyevent-1d870.appspot.com/o/Screenshot%202023-04-17%20at%206.49.40%20PM.png?alt=media&token=90b8037e-576b-44df-803f-b3cafee4949a" width=25% height=25%>
+<img src="https://firebasestorage.googleapis.com/v0/b/bookmyevent-1d870.appspot.com/o/retirewise%2Fwpic2.png?alt=media&token=f89c1de0-c2a9-4d1b-9821-9aeddbcd600d"  width=45% height=45%>
 
 </p>
 
 # Web App for Admin
 
 <p float="left">
-<img src="https://firebasestorage.googleapis.com/v0/b/bookmyevent-1d870.appspot.com/o/Screenshot%202023-04-17%20at%206.50.49%20PM.png?alt=media&token=dbb94c29-6ec9-4af1-8b8b-c202c184ebcd"  width=45% height=45%>
-
-<img src="https://firebasestorage.googleapis.com/v0/b/bookmyevent-1d870.appspot.com/o/Screenshot%202023-04-17%20at%206.51.33%20PM.png?alt=media&token=3a61ea23-2a2b-4879-ac1d-38b65f23bc54"  width=45% height=45%>
-
+<img src="https://firebasestorage.googleapis.com/v0/b/bookmyevent-1d870.appspot.com/o/retirewise%2FRetireWise_page-0001.jpg?alt=media&token=16b4b454-c53c-448e-9350-4758755c6948"  width=45% height=45%>
 </p>
 
 # Components of the App
 
-ChatBot
-Our chatbot is an AI-powered digital assistant that helps users plan for their retirement.
+ChatBot :- Our chatbot is an AI-powered digital assistant that helps users plan for their retirement.
 It provides personalized recommendations based on each user's unique financial situation and goals.
 
 Web App
@@ -45,8 +41,7 @@ Web App
 6. Pricing
 7. Chatbot
 
-Admin App
-Admin Panel for managing and controlling system settings, user accounts, and content
+Admin App :- Admin Panel for managing and controlling system settings, user accounts, and content
 
 # Backend & Technologies Used
 1. Google PaLM 2 API (Generative AI)
